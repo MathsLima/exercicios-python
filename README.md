@@ -1,2 +1,3 @@
 # exercism
-Estudos e soluções de exercicios na plataforma Exercism
+Estudos e soluções de exercicios em linguagem Python
+
